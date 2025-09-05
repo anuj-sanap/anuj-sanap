@@ -2,7 +2,7 @@
 
 <!-- Wave Header -->
 <p align="center">
-  <img src="LinkedIN.jpeg" />
+  <img src="banner1.gif" />
 </p>
 
 <h3 align="center">
