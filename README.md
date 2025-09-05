@@ -2,7 +2,7 @@
 
 <!-- Wave Header -->
 <p align="center">
-  <img src="banner1.gif" />
+  <img src="banner3.gif" />
 </p>
 
 <h3 align="center">
