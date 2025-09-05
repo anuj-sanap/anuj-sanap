@@ -113,9 +113,6 @@ From solving logical challenges and building projects to hackathons and research
   <a href="https://github.com/anujsanap" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/anujsanap/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white" />
-  </a>
 </p>
 
 ---
