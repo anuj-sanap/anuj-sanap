@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ann-artist/ann-artist/main/githubbanner.gif">
+  <img src="">
 </div>
 
 <h1 align="center">Hi 👋, I'm Anuj</h1>
