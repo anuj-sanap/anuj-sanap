@@ -62,8 +62,6 @@ From solving logical challenges and building projects to hackathons and research
 |---------|-------------|------------|
 | **AI Caption Generator** 🖼 | Flask-based app that generates captions & hashtags for images | 🤖 Image-to-Text · 📝 Auto-Captions · 📊 Social Media Ready |
 | **Fertilizer Optimizer** 🌱 | ML-powered system for recommending sustainable fertilizer usage | 🌍 Higher Yield · ♻️ Sustainable Farming · 📈 Data-Driven Insights |
-| **Transport App (Expo)** 🚚 | Parcel delivery system inspired by Porter | 📦 Create & Track Parcels · 📍 Location Based · 📲 User-Friendly |
-| **LuxVintage (E-Commerce)** 🚗 | Vintage car store website | 🛒 Modern UI · 💳 Secure Payments · 🚀 Scalable |
 | **Smart Billing System** 📑 | Stock & payment tracking system for businesses | 💡 Bills · 📊 Reports · ✅ Customer Records |
 
 ---
@@ -78,10 +76,12 @@ From solving logical challenges and building projects to hackathons and research
 
 ## 📜 Certifications  
 
-✔️ **Machine Learning Basics**  
-✔️ **Web Development (React & Node.js)**  
-✔️ **Cybersecurity Fundamentals**  
-✔️ **Android Development**  
+✔️ *Deep Learning for Object Detection course on Coursera!*  
+✔️ *Advance Deep Learning Technique For Computer Vision on Coursera!*  
+✔️ *Final Coding ROund of CodeClash – The Battle of Logic & Code.*  
+✔️ *Supervised Machine Learning: Regression and Classification*
+✔️ *Advanced Learning Algorithms*
+✔️  *Unsupervised Learning, Recommenders, Reinforcement Learning* 
 
 ---
 
