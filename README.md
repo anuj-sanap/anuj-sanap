@@ -80,7 +80,9 @@ From solving logical challenges and building projects to hackathons and research
 ✔️ *Advance Deep Learning Technique For Computer Vision on Coursera!*  
 ✔️ *Final Coding ROund of CodeClash – The Battle of Logic & Code.*  
 ✔️ *Supervised Machine Learning: Regression and Classification.*
+
 ✔️ *Advanced Learning Algorithms.*
+
 ✔️  *Unsupervised Learning, Recommenders, Reinforcement Learning.* 
 
 ---
