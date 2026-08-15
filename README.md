@@ -88,15 +88,15 @@ From solving logical challenges and building projects to hackathons and research
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anujsanap&theme=tokyonight&count_private=true" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=anuj-sanap&theme=tokyonight&count_private=true" alt="streak stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujsanap&show_icons=true&theme=tokyonight&count_private=true" alt="stats card"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anuj-sanap&show_icons=true&theme=tokyonight&count_private=true" alt="stats card"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anujsanap&theme=github_dark&count_private=true" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuj-sanap&theme=github_dark&count_private=true" width="98%" />
 </p>
 
 ---
