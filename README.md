@@ -104,13 +104,13 @@ From solving logical challenges and building projects to hackathons and research
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="mailto:anujsanap@gmail.com">
+  <a href="mailto:sanapanuj7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/anujsanap" target="_blank">
+  <a href="https://linkedin.com/in/anuj-sanap-b18a08323" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/anujsanap" target="_blank">
+  <a href="https://github.com/anuj-sanap" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" />
   </a>
 </p>
